@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RocWebToolDjangoApi", "RocWebToolDjangoApi\RocWebToolDjangoApi.pyproj", "{CFFE2CE9-330D-45A7-9415-C7CE6B106D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFE2CE9-330D-45A7-9415-C7CE6B106D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFE2CE9-330D-45A7-9415-C7CE6B106D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFE2CE9-330D-45A7-9415-C7CE6B106D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFE2CE9-330D-45A7-9415-C7CE6B106D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F3D64B-BAEF-4881-9C2D-3CAE88D0A771}
+	EndGlobalSection
+EndGlobal
